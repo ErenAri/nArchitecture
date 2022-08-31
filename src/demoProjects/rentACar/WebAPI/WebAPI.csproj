@@ -23,6 +23,7 @@
   </ItemGroup>
 
 	<ItemGroup>
+	  <ProjectReference Include="..\..\templateProject\Persistence\Persistence.csproj" />
 	  <ProjectReference Include="..\Persistence\Persistence.csproj" />
 	</ItemGroup>
 
